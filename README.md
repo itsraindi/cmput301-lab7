@@ -18,7 +18,9 @@ Compile SDK - 34
 - https://stackoverflow.com/questions/47229650/close-android-activity-completely-not-even-in-background-using-finish-on-a-bu
 - https://stackoverflow.com/questions/60691472/how-to-check-the-current-activity-in-a-ui-test
 - https://stackoverflow.com/questions/34951848/click-on-last-item-in-adapterview-in-espresso
+- https://www.bilibili.com/video/BV17F411T7Ao/?spm_id_from=333.337.search-card.all.click
 
 ## Verbal Collaboration
 
 - N/A
+
